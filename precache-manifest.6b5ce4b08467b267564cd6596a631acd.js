@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d43c4b878a163e9201e832e64fd27713",
+    "revision": "c97d8fc492e9ced5e8b5a4c2a2438aae",
     "url": "/insomnia/index.html"
   },
   {
-    "revision": "58e14ccc3497192daf45",
-    "url": "/insomnia/static/css/main.0d2c70ed.chunk.css"
+    "revision": "9f4dc449e988bd345708",
+    "url": "/insomnia/static/css/main.538023cd.chunk.css"
   },
   {
     "revision": "dc88d055ecef23ee0c5b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/insomnia/static/js/2.6d4e4538.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "58e14ccc3497192daf45",
+    "revision": "9f4dc449e988bd345708",
     "url": "/insomnia/static/js/main.219055ee.chunk.js"
   },
   {
