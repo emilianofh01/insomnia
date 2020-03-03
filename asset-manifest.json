@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/insomnia/static/css/main.2451d915.chunk.css",
+    "main.css": "/insomnia/static/css/main.0d2c70ed.chunk.css",
     "main.js": "/insomnia/static/js/main.219055ee.chunk.js",
     "main.js.map": "/insomnia/static/js/main.219055ee.chunk.js.map",
     "runtime-main.js": "/insomnia/static/js/runtime-main.6919cf61.js",
@@ -8,9 +8,9 @@
     "static/js/2.6d4e4538.chunk.js": "/insomnia/static/js/2.6d4e4538.chunk.js",
     "static/js/2.6d4e4538.chunk.js.map": "/insomnia/static/js/2.6d4e4538.chunk.js.map",
     "index.html": "/insomnia/index.html",
-    "precache-manifest.56ae42bdf7d9ca646dd03a27eb2f8e19.js": "/insomnia/precache-manifest.56ae42bdf7d9ca646dd03a27eb2f8e19.js",
+    "precache-manifest.22af485307eb272026c67a75f8015b36.js": "/insomnia/precache-manifest.22af485307eb272026c67a75f8015b36.js",
     "service-worker.js": "/insomnia/service-worker.js",
-    "static/css/main.2451d915.chunk.css.map": "/insomnia/static/css/main.2451d915.chunk.css.map",
+    "static/css/main.0d2c70ed.chunk.css.map": "/insomnia/static/css/main.0d2c70ed.chunk.css.map",
     "static/js/2.6d4e4538.chunk.js.LICENSE.txt": "/insomnia/static/js/2.6d4e4538.chunk.js.LICENSE.txt",
     "static/media/InsomniaLogo.jpg": "/insomnia/static/media/InsomniaLogo.81ca6456.jpg",
     "static/media/Homepage.css": "/insomnia/static/media/concierto1.fa7aab56.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.6919cf61.js",
     "static/js/2.6d4e4538.chunk.js",
-    "static/css/main.2451d915.chunk.css",
+    "static/css/main.0d2c70ed.chunk.css",
     "static/js/main.219055ee.chunk.js"
   ]
 }

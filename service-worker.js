@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/insomnia/precache-manifest.56ae42bdf7d9ca646dd03a27eb2f8e19.js"
+  "/insomnia/precache-manifest.22af485307eb272026c67a75f8015b36.js"
 );
 
 self.addEventListener('message', (event) => {
