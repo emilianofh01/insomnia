@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/insomnia/static/css/main.2451d915.chunk.css",
-    "main.js": "/insomnia/static/js/main.287f908b.chunk.js",
-    "main.js.map": "/insomnia/static/js/main.287f908b.chunk.js.map",
+    "main.js": "/insomnia/static/js/main.80e9168d.chunk.js",
+    "main.js.map": "/insomnia/static/js/main.80e9168d.chunk.js.map",
     "runtime-main.js": "/insomnia/static/js/runtime-main.6919cf61.js",
     "runtime-main.js.map": "/insomnia/static/js/runtime-main.6919cf61.js.map",
-    "static/js/2.410993a3.chunk.js": "/insomnia/static/js/2.410993a3.chunk.js",
-    "static/js/2.410993a3.chunk.js.map": "/insomnia/static/js/2.410993a3.chunk.js.map",
+    "static/js/2.6d4e4538.chunk.js": "/insomnia/static/js/2.6d4e4538.chunk.js",
+    "static/js/2.6d4e4538.chunk.js.map": "/insomnia/static/js/2.6d4e4538.chunk.js.map",
     "index.html": "/insomnia/index.html",
-    "precache-manifest.0dc05a3915744a4f38fe99b6a8f7ef87.js": "/insomnia/precache-manifest.0dc05a3915744a4f38fe99b6a8f7ef87.js",
+    "precache-manifest.a6ede3800937e8ec5c53eb53482543f7.js": "/insomnia/precache-manifest.a6ede3800937e8ec5c53eb53482543f7.js",
     "service-worker.js": "/insomnia/service-worker.js",
     "static/css/main.2451d915.chunk.css.map": "/insomnia/static/css/main.2451d915.chunk.css.map",
-    "static/js/2.410993a3.chunk.js.LICENSE.txt": "/insomnia/static/js/2.410993a3.chunk.js.LICENSE.txt",
+    "static/js/2.6d4e4538.chunk.js.LICENSE.txt": "/insomnia/static/js/2.6d4e4538.chunk.js.LICENSE.txt",
     "static/media/InsomniaLogo.jpg": "/insomnia/static/media/InsomniaLogo.81ca6456.jpg",
     "static/media/Homepage.css": "/insomnia/static/media/concierto1.fa7aab56.jpg",
     "static/media/global.css": "/insomnia/static/media/icomoon.ff271db3.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.6919cf61.js",
-    "static/js/2.410993a3.chunk.js",
+    "static/js/2.6d4e4538.chunk.js",
     "static/css/main.2451d915.chunk.css",
-    "static/js/main.287f908b.chunk.js"
+    "static/js/main.80e9168d.chunk.js"
   ]
 }
